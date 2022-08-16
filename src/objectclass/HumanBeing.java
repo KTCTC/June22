@@ -3,7 +3,7 @@ package objectclass;
 public class HumanBeing {
 	int height;
 	String name = "KTCTC";
-	float weight;
+	 float weight;
 
 	public static void main(String[] args) {
 		
