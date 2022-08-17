@@ -7,8 +7,8 @@ public class ArithMaticCalculations {
 	
 	public void addition()
 	{
-		ArithMaticCalculations obj = new ArithMaticCalculations();
-		int c = a + b + obj.a;
+		ArithMaticCalculations oo = new ArithMaticCalculations();
+		int c = a + b + oo.a;
 		System.out.println(c);
 	}
 	
