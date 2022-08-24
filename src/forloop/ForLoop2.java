@@ -1,11 +1,15 @@
 package forloop;
 
+import java.util.Arrays;
+
 public class ForLoop2 {
 
 	public static void main(String[] args) {
 		System.out.println("Before for loop");
 		
 		int arr[] = {34,45,6,88,6,45,34,234,24,12};
+		Arrays.sort(arr);
+		
 		int desc[] = new int[arr.length];
 		
 		

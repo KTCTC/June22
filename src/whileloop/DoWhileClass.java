@@ -4,6 +4,9 @@ public class DoWhileClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+	
+		
 		char chArr[] = {'a','b','f','r','3','D','$'};
 		
 		int j = chArr.length-1;
