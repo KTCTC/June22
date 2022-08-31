@@ -1,0 +1,60 @@
+1. What is class and Object
+2. How to initialise Object
+3. What are data types in java
+4. Why java is called Object oriented programming language
+5. Is java 100% object oriented language
+6. What are types of veriable? and explain each type in details
+7. What are types of operators in jave
+8. What is operator overloading?
+9. What is arrays in java? How to create array?
+10. Limitation of attays in java
+11. what are Decision Making/Control statements in java?
+12. What is switch statement?
+13. Difference between if-else ladder and switch statement
+14. what are return types in java?
+15. What is contructor in java?
+16. Types of constructor in java?
+17. What is use of constructor in java
+18. What is "this" keyword in java?
+19. What are OOPs concepts?
+20. What is inheritance?
+21. What is polymorphism in java? What are its type?
+22. What is method overloading and method overriding ?
+23. Can we overload static methods?
+24. Can we override static methods? explain
+25. What is dynamic method dispatch?
+26. What is "super" keyword in java?
+27. What is interface? explain
+28. Can we instantiate interface?
+29. What is abtract class?
+30. Can we instantiate abtract class? 
+31. What is abstraction in java?
+32. What are access modifiers in java?
+33. What is difference between default and protected access modifier?
+34. What is ENUm data type in java?
+35. What is final keyword in java? explain use with variable, method and class
+36. What is encapsulation?
+37. How to make class read only or write only?
+38. How to achive data hiding in java?
+39. What are wrapper classes in java?
+40. WHat is string in java? is it mutable?
+41. What is string builder and buffer in java?
+42. WHat is exception in java?
+43. What are types of exception in java?
+44.What is throwable in java?
+45. What is throws in java?
+46. What is throw in java?
+47. How to handle exception in java?
+48. What is finally in java?
+49. What is defeerence between final and finally in java?
+50. Can we have try block without catch block?
+51. What is collection in java?
+52. what is difference between collection and collections in java?
+53. explain list and set in accordance with null value 
+54. What are available lists in collection?
+55. What are available sets in collection?
+56. What is hash map
+57. What is iterator in collection?
+58. How to use iterator with arraylist and set?
+59. How to add value in hash map and read value from hash map?
+60. How to iterate Hashmap using EntrySet? 
