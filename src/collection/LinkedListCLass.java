@@ -2,17 +2,14 @@ package collection;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
-import java.util.List;
+import java.util.LinkedList;
 
-public class ArrayListClass {
-	
+public class LinkedListCLass {
+
 	public static void main(String[] args) {
-		int []arr = new int[3];
-		arr[0] = 8;
-		
-		ArrayList<Integer> data = new ArrayList<>();
-		ArrayList<Integer> data1 = new ArrayList<>();	
+
+		LinkedList<Integer> data = new LinkedList<>();
+		LinkedList<Integer> data1 = new LinkedList<>();	
 		Integer a = new Integer(33);
 		Integer b = new Integer(12);
 		
@@ -49,15 +46,6 @@ public class ArrayListClass {
 		System.out.println(ab);
 		
 		
-		Iterator<Integer> itr = data.iterator();
-		
-		while(itr.hasNext())
-		{
-			System.out.println(itr.next());		
-			
-		}
-		
-		
 		for (int i=0; i<data.size();i++)
 		{
 			System.out.println(data.get(i));
@@ -68,6 +56,7 @@ public class ArrayListClass {
 			System.out.println(each);
 		}
 		
+
 	}
 
 }

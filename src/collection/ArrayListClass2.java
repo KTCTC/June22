@@ -17,7 +17,7 @@ public class ArrayListClass2 {
 		data.add("Direct String");
 		
 		System.out.println(data);
-		
+		Collections.sort(data);	
 		
 		
 		for (int i=0; i<data.size();i++)

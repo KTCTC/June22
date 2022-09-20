@@ -2,13 +2,14 @@ package collection;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.TreeSet;
 
-public class ArrayListClass3 {
+public class TreeSetClass2 {
 	
 	public static void main(String[] args) {
 		
 		
-		ArrayList<Student> data = new ArrayList<>();
+		TreeSet<Student> data = new TreeSet<>();
 		
 		Student st1 = new Student();
 		st1.rollNum = 11;
@@ -21,14 +22,8 @@ public class ArrayListClass3 {
 		data.add(st2);
 		data.add(st1);
 		data.add(new Student());
-		//data.add(null);
-		//data.add(null);
 		
-		Student ss = data.get(0);
-		System.out.println(ss.rollNum);
-		ss.displayStudentInfo();
 		
-		data.get(1).displayStudentInfo();
 		
 		for (Student each:data)
 		{
